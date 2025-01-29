@@ -1,3 +1,4 @@
+# simple random number guessing game using 'random'
 import random
 
 def easy_mode():
